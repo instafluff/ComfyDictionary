@@ -3,6 +3,15 @@ The Comfiest English Word Dictionary API!
 
 This dictionary API uses the Webster English Dictionary (from the [Gutenberg Project](https://www.gutenberg.org/), compiled August 22, 2009)
 
+## Instafluff ##
+> *Like these projects? The best way to support my open-source projects is by becoming a Comfy Sponsor on GitHub!*
+
+> https://github.com/sponsors/instafluff
+
+> *Come and hang out with us at the Comfiest Corner on Twitch!*
+
+> https://twitch.tv/instafluff
+
 ## Using the API
 
 Simply call [https://www.instafluff.tv/ComfyDictionary/web/word.json](https://www.instafluff.tv/ComfyDictionary/web/word.json) and replace `word.json` with the word that you wish to look up (e.g. For "Patchwork", [https://www.instafluff.tv/ComfyDictionary/web/patchwork.json](https://www.instafluff.tv/ComfyDictionary/web/patchwork.json))!
